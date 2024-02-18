@@ -52,6 +52,6 @@ Through my meticulous data cleaning efforts, I successfully transform the raw da
 
 This encapsulates my journey from data chaos to clarity, showcasing the importance of effective data cleaning in ensuring data integrity and facilitating meaningful analysis.
 
-
+![3](https://github.com/Sanjeev-Lama/Excel-Data-Cleaning/assets/158605914/79494d32-89ac-4c15-a092-ff359d36265e) 
 
 ## Data Cleaning [Video](https://screenapp.io/app/#/shared/09b99a56-c8b9-4d97-a096-7888150fecb5) 
